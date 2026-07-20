@@ -1,0 +1,18 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Data files
+data/raw/*.xlsx
+data/raw/*.csv
+data/supporting/*.xlsx
+data/supporting/*.csv
+output/*.csv
+output/*.xlsx
+output/*.log
