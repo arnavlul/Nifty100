@@ -16,3 +16,5 @@ data/supporting/*.csv
 output/*.csv
 output/*.xlsx
 output/*.log
+
+docs/
